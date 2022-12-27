@@ -24,6 +24,32 @@ Please enter current time .. float..
 4.1 -> 7 evening
 7 to 12 night
 
+-----------------------------------------
+
+array practice function
+
+main array int[]
+
+
+without with
+function sort(array,int flag)
+1 asc
+0 asc
+
+max function 
+you have pass array and it will return max element from array
+you have pass array and it will return min element from array
+
+
+
+
+
+
+
+
+
+
+
 
 
 
