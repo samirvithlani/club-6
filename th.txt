@@ -15,6 +15,11 @@ switch case
     }
 //depends 
 
-
-
 loops
+
+defination : --->array
+
+array is group of similar kind of data type....
+structure is group of different kind of data type....
+
+//student --> id int,maraks float, name char, age int
