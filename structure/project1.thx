@@ -1,0 +1,28 @@
+dream 11 --> teams
+
+max array 10
+
+team --> max team 5
+
+user name
+team id --> 1,2,3
+team name -->csk1,csk2,csk3
+per team 5 players
+csk1 [5][1] -->50 run
+csk1 [5][2] --> 100 run
+csk1 [5][3] --> 150 run
+csk1 [5][4] --> 50 run
+csk1 [5][5] --> 200 run
+
+csk1 total score ---> 550
+
+csk2 [5][1] -->50 run
+csk2 [5][2] --> 100 run
+csk2 [5][3] --> 150 run
+csk2 [5][4] --> 50 run
+csk2 [5][5] --> 200 run
+
+csk2 total score ---> 550
+
+
+which team is winner for for user 1
