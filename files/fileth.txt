@@ -1,0 +1,15 @@
+data persisatancy : - to store data in form of file or database called data persisatancy
+
+open --> read --> write --> close
+
+---> modes ---> r,w,a,r+,w+,a+
+
+abc.txt
+
+10 
+.....
+
+relative path : - abc.txt
+absolute path : - C:\Users\abc.txt
+
+File macro : - #define FILE FILE*
