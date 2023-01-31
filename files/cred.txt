@@ -1,2 +1,2 @@
-name = Raj Patel patelraj@gmail.com 1 raj123
-name = Raj Patel patelraj@gmail.com 1 raj124
+Raj Patel patelraj@gmail.com 1 raj123
+Raj Patel patelraj@gmail.com 1 raj124
